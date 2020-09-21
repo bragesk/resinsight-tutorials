@@ -27,3 +27,7 @@ riOctaveScripts
 Ctrl
 txt
 wordlist
+ctrl
+FOPT
+SMSPEC
+WOPT
